@@ -5,6 +5,7 @@ var fin = 999;
 do {
     var ingreso = parseInt(prompt("ingresa un número"));
     suma += ingreso;
+    
 }
 while (ingreso != fin) {
     if (ingreso == fin ) {
